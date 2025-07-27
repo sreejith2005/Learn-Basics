@@ -273,7 +273,7 @@ Distribute all topics across {study_days} days logically. Return only the JSON a
 # Main execution function
 def main():
     # Set your Google API key here
-    API_KEY = "AIzaSyAT8YJi0HyhOV62MLPkbGUvNAsMK9mdHEA"  # Replace with your actual API key
+    API_KEY = "AIzaSyAT8YJi0HyhOV62MLPkbGUvnigaMK9mdHEA"  # Replace with your actual API key
     
     if API_KEY == "":
         print("[ERROR] Please set your Google Gemini API key in the API_KEY variable")
